@@ -213,7 +213,10 @@ initiad tx distribution withdraw-rewards $(initiad keys show wallet --bech val -
 ```
 initiad tx gov vote 75 yes --from wallet --chain-id initiation-1 --gas-adjustment 1.4 --gas auto --gas-prices 0.15uinit --node=http://localhost:15657 -y
 ```
-# oracle görev linki
+# Oracle Görev Linki
 
 > [Görev reposu](https://github.com/Cigilipap/Initia-repo/blob/main/Oracle.md)
 
+# Güncelleme Linki
+
+> [Güncelleme Linki](https://github.com/Cigilipap/Initia-repo/blob/main/G%C3%BCncelleme%20v0.2.15.md)
