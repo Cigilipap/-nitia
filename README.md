@@ -19,7 +19,7 @@ https://scan.testnet.initia.xyz/initiation-1
 | System        | Ubuntu 22.04 Yada 20.04|
 
 # 🧑🏻‍💻 Gerekli Kurulumlar
-sudo apt update && sudo apt upgrade -y
+@@ -79,7 +80,8 @@ sudo apt update && sudo apt upgrade -y
 sudo apt install curl git wget htop tmux build-essential jq make lz4 gcc unzip -y
 
 # 🧑🏻‍💻 Go Kurulumu
