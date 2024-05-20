@@ -6,3 +6,6 @@
 > son olarak Initia her hangi bir şekilde ödül açıklamadı, bir beklenti içerisine girmemenizi tavsiye ediyorum.
 # FAUCET
 (https://faucet.testnet.initia.xyz/)
+#Explorer
+https://scan.testnet.initia.xyz/initiation-1
+#💻 Sistem Gereksinimleri
