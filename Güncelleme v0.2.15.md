@@ -1,3 +1,4 @@
+# Güncelleme
 ```
 systemctl stop initiad
 cd $HOME
