@@ -4,10 +4,17 @@
 [Core Node Telegram](https://t.me/corenodechat)
 > 
 > son olarak Initia her hangi bir şekilde ödül açıklamadı, bir beklenti içerisine girmemenizi tavsiye ediyorum.
-# FAUCET
+# Faucet
 (https://faucet.testnet.initia.xyz/)
 
 # Explorer
 https://scan.testnet.initia.xyz/initiation-1
 
 # 💻 Sistem Gereksinimleri
+| bileşenler    | maksimum gereksinimler |        
+| ------------- | :--------------------: |
+| CPU           | 6                      |
+| RAM           | 	16+ GB               |
+| Storage       | 1 TB                   |
+| System        | Ubuntu 22.04 OR 20.04  |
+
