@@ -7,7 +7,7 @@
 # FAUCET
 (https://faucet.testnet.initia.xyz/)
 
-#Explorer
+# Explorer
 https://scan.testnet.initia.xyz/initiation-1
 
-#💻 Sistem Gereksinimleri
+# 💻 Sistem Gereksinimleri
