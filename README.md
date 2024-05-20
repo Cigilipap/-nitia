@@ -14,7 +14,8 @@ https://scan.testnet.initia.xyz/initiation-1
 | bileşenler    | maksimum gereksinimler |        
 | ------------- | :--------------------: |
 | CPU           | 6                      |
-| RAM           | 	16+ GB               |
+| RAM           | 16+ GB                 |
 | Storage       | 1 TB                   |
-| System        | Ubuntu 22.04 OR 20.04  |
+| System        | Ubuntu 22.04 Yada 20.04|
+
 
