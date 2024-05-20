@@ -215,5 +215,5 @@ initiad tx gov vote 75 yes --from wallet --chain-id initiation-1 --gas-adjustmen
 ```
 # oracle görev linki
 
-> [Core Node Telegram](https://github.com/Cigilipap/Initia-repo/blob/main/Oracle.md)
+> [Görev reposu](https://github.com/Cigilipap/Initia-repo/blob/main/Oracle.md)
 
